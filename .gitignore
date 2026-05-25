@@ -1,0 +1,5 @@
+# uv related file
+.venv/
+.ruff_cache/
+.python-version
+uv.lock
