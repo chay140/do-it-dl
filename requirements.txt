@@ -2,6 +2,11 @@ scikit-learn
 matplotlib
 numpy
 
+# from chapter7
+# tensorflow_gpu==2.0.0-rc2
+tensorflow
+torch
+
 # jupyter
 jupyter
 ipykernel

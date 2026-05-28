@@ -11,4 +11,6 @@ dependencies = [
     "numpy>=2.4.6",
     "ruff>=0.15.14",
     "scikit-learn>=1.8.0",
+    "tensorflow>=2.21.0",
+    "torch>=2.12.0",
 ]
